@@ -4,7 +4,7 @@
 }
 
 .leftPort{
-  background-color: #0400f7;
+  background-color: #242424;
   width: 400px;
   flex-shrink: 0;
   padding: 30px;
@@ -12,8 +12,8 @@
 }
 
 .rightPort{
-  background-color: rgb(255, 255, 255);
-  width: 1000px;
+  background-color: grey;
+  width: 10000px;
   flex-shrink: 1;
   padding: 4rem;
 }
