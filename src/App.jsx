@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { ImageProfile } from './components/ImageProfile'
 import { Title } from './components/Title'
+
 import './App.css'
 
 function App() {
